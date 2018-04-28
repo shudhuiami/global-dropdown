@@ -1,0 +1,21 @@
+{
+  "name": "global-dropdown",
+  "version": "1.0.0",
+  "description": "Simple, easy to use and small in size plugin.\r Based on pure Javascript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Zobayer",
+  "license": "ISC",
+  "keywords": [
+    "drop down",
+    "drop-down",
+    "Pure javascript",
+    "javascript down-down",
+    "no plugin needed",
+    "easy to use",
+    "Free for all",
+    "user friendly"
+  ]
+}
